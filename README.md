@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Airline Reservation System**
+- 💬 Ask me about **C,Core Java,Advanced Java,SQL,HTML,CSS,JavaScript,Spring**
 
 - 📫 How to reach me **arvind.kumar208414@gmail.com**
 
