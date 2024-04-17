@@ -1,4 +1,4 @@
-![image](https://github.com/arvind01A/arvind01A/assets/132938036/cfb1fe36-10ff-4ab9-b5d0-431b69ec9a5d)<h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
+<h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **React**
