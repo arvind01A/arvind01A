@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C,Core Java,Advanced Java,SQL,HTML,CSS,JavaScript,Spring**
+- 💬 Ask me about **C,C++,Java,SQL,PL/SQL,HTML,CSS,JavaScript,Spring Basic**
 
 - 📫 How to reach me **arvind.kr0024@gmail.com**
 
