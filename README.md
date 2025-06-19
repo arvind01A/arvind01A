@@ -1,5 +1,27 @@
+## 👋 Hello! I'm Arvind Kumar
+
+🎓 I'm currently learning **Spring**.  
+🔍 I'm passionate about **Java Developer** and problem solving into projects that help solve real-world problems.
+
+### 🛠 Skills & Tools:
+- **Programming Languages:** Java (Core and Advanced), C, C++
+- **Web Development:** HTML, CSS, JavaScript
+- **Database Management:** SQL, MySQL
+
+### 🎯 Goals:
+- Improve my programming skills
+- Work on real-world projects and case studies
+- Land an **Java Developer role**
+
+### 📫 Let's Connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
+- 📊 Check out my projects below — more coming soon!
+
+
+<hr>
+
 <h1 align="center">Hello 👋, I'm Arvind Kumar</h1>
-<h3 align="center">I'm passionate Java fullstack developer.</h3>
+<h3 align="center">I'm passionate Java developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind01a&label=Profile%20views&color=0e75b6&style=flat" alt="arvind01a" /> </p>
 
@@ -7,11 +29,6 @@
 
 <p align="left"> <a href="https://twitter.com/arvind01a" target="blank"><img src="https://img.shields.io/twitter/follow/arvind01a?logo=twitter&style=for-the-badge" alt="arvind01a" /></a> </p>
 
-- 🔭 I’m currently working on **learning**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **C,C++,Java,SQL,PL/SQL,HTML,CSS,JavaScript,Spring Basic**
 
 - 📫 How to reach me **arvind.kr0024@gmail.com**
 
