@@ -16,10 +16,12 @@
 
 <ul>
         <li>🎯Programming Languages</li>
-        <ul>
-         <li>C/C++</li>
-         <li>Core Java/J2EE (Java8)</li>
-        </ul>
+        <li>
+          <ul>
+              <li>C/C++</li>
+              <li>Core Java/J2EE (Java8)</li>
+          </ul>
+        </li>
         <li>🎯Frameworks & Libraries</li>
         <ul>
             <li>📌Frontend</li>
